@@ -1,8 +1,14 @@
+v\_field\_is\_this\_a\_draft\_applicability
+
+**DRAFT**
+
+v\_field\_end
+
 v\_field\_annotated\_copy
 
 **AMENDED AND RESTATED CERTIFICATE OF INCORPORATION**
 
-**This sample document is the work product of a coalition of attorneys who specialize in venture capital financings, working under the auspices of the NVCA. This document is intended to serve as a starting point only, and should be tailored to meet your specific requirements. This document should not be construed as legal advice for any particular facts or circumstances. Note that this sample presents an array of (often mutually exclusive) options with respect to particular deal provisions.**
+**This sample document is the work product of a coalition of attorneys who specialize in venture capital financings, working under the** **auspices of the NVCA. This document is intended to serve as a starting point only, and should be tailored to meet your specific requirements. This document should not be construed as legal advice for any particular facts or circumstances. Note that this sample presents an array of (often mutually exclusive) options with respect to particular deal provisions.**
 
 v\_field\_end
 
